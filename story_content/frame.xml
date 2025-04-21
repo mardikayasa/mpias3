@@ -1353,7 +1353,7 @@
         </slidelink>
         <slidelink slideid="_player.5m6j9lgTgyz" displaytext="MATERI EKOSISTEM" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5m6j9lgTgyz.6m44Lt2RIlx" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5m6j9lgTgyz.6m44Lt2RIlx" displaytext="MATERI EKO" expand="false" type="slide" />
             <slidelink slideid="_player.5m6j9lgTgyz.6ESNjpuUCew" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5m6j9lgTgyz.60lFIfZPtbl" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5m6j9lgTgyz.5pY8CZ30O6b" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1373,6 +1373,32 @@
         <slidelink slideid="_player.5j7tWp36LTD" displaytext="GAMES" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5j7tWp36LTD.6Q7yMoixgAp" displaytext="GAMES" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Kf6GYNaRnz" displaytext="GAMEKO" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Kf6GYNaRnz.5jGo7jltE2I" displaytext="START" expand="false" type="slide" />
+            <slidelink slideid="_player.6Kf6GYNaRnz.6P6BFvSxDI5" displaytext="LEVEL" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5nJIgYcgE8l" displaytext="GAME INFO" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5nJIgYcgE8l.5tX23KALlXh" displaytext="GAME INFO" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6o96mixtvum" displaytext="LEVEL 1" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6o96mixtvum.5xetxq4qB6J" displaytext="LEVEL 1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5kj94oBfjXZ" displaytext="LEVEL 2" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5kj94oBfjXZ.66dkFn9D2yC" displaytext="LEVEL 2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5o9UqfKapNJ" displaytext="LEVEL 3" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5o9UqfKapNJ.5WVEDsUjhhW" displaytext="LEVEL 3" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
