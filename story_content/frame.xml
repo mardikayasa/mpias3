@@ -33,9 +33,9 @@
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="false">
+          <option name="time_enabled" value="true">
             <options>
-              <option name="time_format" value="elapsed" />
+              <option name="time_format" value="remaining" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1389,6 +1389,10 @@
         <slidelink slideid="_player.6o96mixtvum" displaytext="LEVEL 1" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6o96mixtvum.5xetxq4qB6J" displaytext="LEVEL 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6o96mixtvum.5qJbyTvjgzc" displaytext="LEVEL 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6o96mixtvum.61nqXxjX4uQ" displaytext="LEVEL 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6o96mixtvum.6PE60Y2QsMC" displaytext="LEVEL 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6o96mixtvum.6iibuffklKF" displaytext="LEVEL 1" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5kj94oBfjXZ" displaytext="LEVEL 2" expand="true" type="slide">
