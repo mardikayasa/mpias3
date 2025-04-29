@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="true">
             <options>
-              <option name="time_format" value="remaining" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1398,11 +1398,17 @@
         <slidelink slideid="_player.5kj94oBfjXZ" displaytext="LEVEL 2" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5kj94oBfjXZ.66dkFn9D2yC" displaytext="LEVEL 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5kj94oBfjXZ.5dUtMCg7wB0" displaytext="LEVEL 2" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5o9UqfKapNJ" displaytext="LEVEL 3" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5o9UqfKapNJ.5WVEDsUjhhW" displaytext="LEVEL 3" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6fV7b3NYE4P" displaytext="PETUNJUK" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6fV7b3NYE4P.5mzpwSGiTVM" displaytext="PETUNJUK" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
